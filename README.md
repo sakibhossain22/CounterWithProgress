@@ -1,4 +1,4 @@
-# Counter with Progress Bar and Undo/Redo Functionality
+# Counter with Progress Bar and Undo/Redo Functionality And Age Calculator
 
 
 ## 📖 Overview
@@ -23,21 +23,7 @@ also have calculates a user's age based on their birthdate. The user inputs thei
 - **Tailwind CSS:** Utility-first CSS framework for styling.
 - **JavaScript (ES6):** Programming language used for logic and interactivity.
 
-## 📂 Project Structure - Counter
-
-```bash
-├── public
-│   └── index.html
-├── src
-│   ├── App.jsx
-│   ├── index.css
-│   └── index.js
-├── assets
-│   └── screenshot.png
-├── tailwind.config.js
-├── postcss.config.js
-└── package.json
-## 📂 Project Structure - Age Calculator
+## 📂 Project Structure
 
 ```bash
 ├── public
